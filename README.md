@@ -1,15 +1,16 @@
-# Flutter eBook UI Design Uygulaması
-## eBook Uygulaması Ekran Görüntüsü
+# book_app
 
-![Github1](https://user-images.githubusercontent.com/75077248/138744888-15cc5a09-2cec-4718-ad1f-af6006c2b6af.png)
-![Github2](https://user-images.githubusercontent.com/75077248/138744940-961ffa01-023d-4efe-99bb-8d1a354f10f0.png)
+E-book App
 
-## Uygulama Hakkında
+## Getting Started
 
-- Minimal tasarıma ve clean code mantığına uygun şekilde yazılmış e-book UI çalışmasıdır.
-- Assets, constant, models ve pages şeklinde klasörleme yapısı oluşturularak business, design ve model kısımları ayrılmıştır.
-- Singleton yapısı kullanılarak colors, icons, sizes gibi sınıfların bir kere oluşturulup bütün sayfalarda erişimi sağlanmıştır. Böylece anlaşılır bir tasarım deseni uygulanmıştır.
-- Bütün widgetlar kullanıldıkları sayfalarda ayrı klasörlerde tutularak düzenlenmesi ve uygulanması kolaylaştırılmıştır.
-- Books ve icons için modelleme yapılmıştır.
+This project is a starting point for a Flutter application.
 
-- Diğer tasarımlarım için https://dribbble.com/samedaydin hesabımı ziyaret edebilirsiniz.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
